@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+selenium
+httpx
+pandas
+openpyxl
+python-docx
+lxml
+beautifulsoup4
+requests
